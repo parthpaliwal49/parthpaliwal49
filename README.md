@@ -14,7 +14,7 @@ I'm a passionate developer with a keen interest in Data Engineering, AI/ML and b
 
 ### 📫 How to reach me:
 
-- 📧 Email: parthpaliwal494@gmail.com
+- 📧 Email: parthpaliwal007@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/parth-paliwal-at494
 - 🌐 Website: Currently working on it.
 
