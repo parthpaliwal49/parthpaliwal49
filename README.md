@@ -4,11 +4,7 @@ I'm a passionate developer with a keen interest in Data Engineering, AI/ML and b
 
 - 👨‍💻 I'm proficient in Python and love working on AI/ML projects. From data analysis to machine learning models, I enjoy the entire spectrum.
 
-- 🔧 Experienced in backend development using Python and Java. I'm well-versed in technologies like Spring Boot, Django, FastApi and Flask for building robust and scalable backend systems.
-
-- 🌐 Always enthusiastic about web technologies and exploring new frameworks. Frontend or backend, I enjoy the full-stack experience but like backend more.
-
-- 🌱 I believe in continuous learning, and I'm currently exploring Tenserflow and Pytorch.
+- 🌱 I believe in continuous learning and experimentation.
 
 - 💬 Open to collaboration on projects related to AI, ML, backend development, or anything exciting! Let's build something amazing together.
 
